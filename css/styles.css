@@ -2,6 +2,9 @@ div {
     background-color: palegoldenrod;
     }
 
-    head { align-content: center
+    head { width: 70px;
+           height: 300px;
+           border: 1px solid blueviolet;
+           align-content: center;
+
     }
-    
